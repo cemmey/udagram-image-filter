@@ -35,7 +35,7 @@ Follow the process described in the course to `eb init` a new application and `e
 https://github.com/cemmey/udagram-image-filter
 ### Elastic Beanstalk Endpoint
 
-http://udagram-image-filter-dev22.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://storage.googleapis.com/roomstatusapp.appspot.com/acda497b0e868851a4930d70581f3b0880f07c38.jpg
+http://udagram-image-filter-dev2222.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://storage.googleapis.com/roomstatusapp.appspot.com/acda497b0e868851a4930d70581f3b0880f07c38.jpg
 
 ## Stand Out (Optional)
 

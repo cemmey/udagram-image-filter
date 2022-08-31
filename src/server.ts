@@ -36,6 +36,7 @@ import {Router, Request, Response} from 'express';
       res.status(400).send('Image URL is required');
     }
 
+
     const filtered_image = await filterImageFromURL(image_url);
 
     res.status(200).sendFile(filtered_image, () => {
